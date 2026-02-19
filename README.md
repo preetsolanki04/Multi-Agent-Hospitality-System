@@ -156,9 +156,13 @@ Steps:
 ## 👨‍💻 Author
 
 **Vinayak Pandiya**
+
 **Pritam Kumar Ghosh**
+
 **Pranjal Dhanotiya**
+
 **Riya Sathe**
+
 **Preet Solanki** 
 
 GitHub: https://github.com/preetsolanki04
