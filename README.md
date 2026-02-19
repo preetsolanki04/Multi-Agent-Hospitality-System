@@ -1,4 +1,4 @@
-# 🏨 Multi-Agent Hospitality System
+#  Multi-Agent Hospitality System
 
 > AI-Powered Travel Planning Platform using Collaborative Agents
 
